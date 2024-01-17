@@ -1,0 +1,101 @@
+,Indicator,Value,City
+0,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),16.9,Abbotsford
+1,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),6.1,Abbotsford
+2,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),10.7,Abbotsford
+3,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),2.5,Abbotsford
+4,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),27.3,Abbotsford
+5,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),8.2,Abbotsford
+6,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),7.4,Abbotsford
+7,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),8.7,Abbotsford
+8,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),4.1,Abbotsford
+9,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),28.2,Abbotsford
+10,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),14.2,Campbell River
+11,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),8.2,Campbell River
+12,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),8.2,Campbell River
+13,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),2.4,Campbell River
+14,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),22.6,Campbell River
+15,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),8.1,Campbell River
+16,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),13.6,Campbell River
+17,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),6.8,Campbell River
+18,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),4.2,Campbell River
+19,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),18.9,Campbell River
+20,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),12.9,Chilliwack
+21,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),7.4,Chilliwack
+22,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),9.1,Chilliwack
+23,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),2.5,Chilliwack
+24,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),24.2,Chilliwack
+25,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),5.7,Chilliwack
+26,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),8.2,Chilliwack
+27,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),7.6,Chilliwack
+28,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),4.2,Chilliwack
+29,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),24.4,Chilliwack
+30,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),14.1,Kamloops
+31,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),9.3,Kamloops
+32,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),7.6,Kamloops
+33,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),2.3,Kamloops
+34,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),23.1,Kamloops
+35,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),6.7,Kamloops
+36,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),11.8,Kamloops
+37,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),5.6,Kamloops
+38,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),3.4,Kamloops
+39,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),20,Kamloops
+40,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),12.4,Kelowna
+41,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),7.6,Kelowna
+42,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),5.8,Kelowna
+43,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),1.8,Kelowna
+44,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),21.3,Kelowna
+45,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),6.8,Kelowna
+46,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),9.7,Kelowna
+47,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),4.5,Kelowna
+48,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),3,Kelowna
+49,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),22.3,Kelowna
+50,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),13.4,Nanaimo
+51,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),6.6,Nanaimo
+52,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),7.4,Nanaimo
+53,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),1.9,Nanaimo
+54,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),20.9,Nanaimo
+55,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),6,Nanaimo
+56,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),8.6,Nanaimo
+57,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),5.7,Nanaimo
+58,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),3.4,Nanaimo
+59,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),16.7,Nanaimo
+60,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),12.8,Penticton
+61,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),7.9,Penticton
+62,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),6.8,Penticton
+63,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),2,Penticton
+64,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),22.4,Penticton
+65,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),5.8,Penticton
+66,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),10.7,Penticton
+67,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),5.1,Penticton
+68,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),3.3,Penticton
+69,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),19.1,Penticton
+70,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),10.9,Vancouver
+71,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),5.1,Vancouver
+72,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),8,Vancouver
+73,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),1.8,Vancouver
+74,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),21.4,Vancouver
+75,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),5.5,Vancouver
+76,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),5.6,Vancouver
+77,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),5.6,Vancouver
+78,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),3,Vancouver
+79,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),16.5,Vancouver
+80,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),13.1,Vernon
+81,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),9.2,Vernon
+82,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),6.8,Vernon
+83,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),2.6,Vernon
+84,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),22.2,Vernon
+85,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),6.9,Vernon
+86,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),12.1,Vernon
+87,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),5.4,Vernon
+88,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),4.3,Vernon
+89,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),24.3,Vernon
+90,Asthma age-standardized prevalence rate per 100 population (5-54 yrs),12.1,Victoria
+91,Chronic obstructive pulmonary disease (COPD) age-standardized prevalence rate per 100 population (45+ yrs),5.1,Victoria
+92,Diabetes age-standardized prevalence rate per 100 population (1+ yrs),6.8,Victoria
+93,Heart failure age-standardized prevalence rate per 100 population (1+ yrs),1.6,Victoria
+94,Hypertension age-standardized prevalence rate per 100 population (20+ yrs),20.7,Victoria
+95,Asthma age-standardized incidence rate per 1000 population (5-54 yrs),6.1,Victoria
+96,Chronic obstructive pulmonary disease (COPD) age-standardized incidence rate per 1000 population (45+ yrs),6.4,Victoria
+97,Diabetes age-standardized incidence rate per 1000 population (1+ yrs),4.9,Victoria
+98,Heart failure age-standardized incidence rate per 1000 population (1+ yrs),3,Victoria
+99,Hypertension age-standardized incidence rate per 1000 population (20+ yrs),16.7,Victoria
